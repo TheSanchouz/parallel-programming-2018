@@ -3,6 +3,7 @@
 
 #include "pch.h"
 #include "mpi.h"
+#include <iostream>
 #include <random>
 #include <iomanip>
 #include <string>
